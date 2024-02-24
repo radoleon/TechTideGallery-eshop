@@ -8,7 +8,7 @@ This project imitates an e-shop that sells electronic goods. From the landing pa
 > [!IMPORTANT]
 > The image assets for this project were provided by **Burst by Shopify (shopify.com/stock-photos)**. Read their copyright policy before manipulating this project.
 ### Showcase 🔥
-![](https://github.com/radoleon/projects/assets/100576972/d9deca79-6dbb-4509-9236-3cad35b0068b)
+![](https://github.com/radoleon/TechTideGallery-eshop/assets/100576972/eb396a89-dd45-4daf-8011-7429ea23f784)
 ### Features ✨
 - Integration with database and authentification service
 - Option to filter products by category
